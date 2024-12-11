@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color red
+color white
+drawable baseline_catching_pokemon_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnJugar
+id btnPokedex
+id guideline
+id guideline2
+id guideline3
+id icnLogo
+id menu
+id rvPokedex
+id textView
+layout activity_main
+layout activity_select
+layout pokedex
+menu menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SeriousGame2024
+style Theme.SeriousGame2024
+xml backup_rules
+xml data_extraction_rules

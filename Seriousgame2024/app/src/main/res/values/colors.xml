@@ -3,4 +3,23 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red">#FF0000</color>
+    <color name="fire">#FD9C52</color>
+    <color name="water">#4D8FD6</color>
+    <color name="grass">#63BB5C</color>
+    <color name="electric">#F4D13B</color>
+    <color name="bug">#90C12D</color>
+    <color name="rock">#C8B68B</color>
+    <color name="ground">#D77945</color>
+    <color name="dark">#5A5366</color>
+    <color name="normal">#8F9A9F</color>
+    <color name="ghost">#5269AE</color>
+    <color name="fighting">#CD3F6B</color>
+    <color name="steel">#5B8DA4</color>
+    <color name="dragon">#BC9D31</color>
+    <color name="fairy">#E990E4</color>
+    <color name="ice">#74CFC0</color>
+    <color name="flying">#94ABDD</color>
+    <color name="psychic">#F87075</color>
+    <color name="poison">#AB69CC</color>
+    <color name="test">#AB69CC</color>
 </resources>
