@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seriousgame2024.app-mergeDebugResources-29:/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "com.example.seriousgame2024.app-mergeDebugResources-2:/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jan_s\\.gradle\\caches\\transforms-3\\f8fced7e33e8063786db0e37554c671f\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\DAMANDROID\\caches\\transforms-3\\f8fced7e33e8063786db0e37554c671f\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

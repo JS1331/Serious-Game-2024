@@ -1,11 +1,17 @@
 package com.example.seriousgame2024.classes
 
-data class cPokemon(
-    val id: Long,
-    val nombres: Nombres,
-    val tipos: List<Tipo>,
-    val stats: Stats
+
+data class Poke(
+    val pokemon: List<cPokemon>
 )
+data class cPokemon(
+    val id: Int,
+    val name: Nombres,       // Cambia "nombres" a "name" para coincidir con el JSON
+    val type: List<String>,  // Cambia "tipos" a "type" para coincidir con el JSON
+    val base: Stats          // Usa "base" para mapear directamente al JSON
+)
+
+
 
 // Clase para los nombres en diferentes idiomas
 data class Nombres(
@@ -17,12 +23,12 @@ data class Nombres(
 
 // Clase para las estadísticas base
 data class Stats(
-    val hp: Long,
-    val attack: Long,
-    val defense: Long,
-    val spAttack: Long,
-    val spDefense: Long,
-    val speed: Long
+    val HP: Int,
+    val Attack: Int,
+    val Defense: Int,
+    val SpAttack: Int,
+    val SpDefense: Int,
+    val Speed: Int
 )
 
 // Enumeración para los tipos de Pokémon
