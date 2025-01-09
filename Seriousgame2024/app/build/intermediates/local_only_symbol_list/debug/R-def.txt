@@ -29,6 +29,8 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable pok__ball
 drawable pokeball_pattern
+drawable titulo
+id Titulo_Poketest
 id btnBack
 id btnJugar
 id btnPokedex

@@ -3131,6 +3131,7 @@ drawable notify_panel_notification_icon_bg
 drawable pok__ball
 drawable pokeball_pattern
 drawable test_level_drawable
+drawable titulo
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -3147,6 +3148,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id Titulo_Poketest
 id above
 id accelerate
 id accessibility_action_clickable_span

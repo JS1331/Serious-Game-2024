@@ -3130,6 +3130,7 @@ int drawable notify_panel_notification_icon_bg 0x7f0700e4
 int drawable pok__ball 0x7f0700e8
 int drawable pokeball_pattern 0x7f0700e9
 int drawable test_level_drawable 0x7f0700e5
+int drawable titulo 0x7f0700ec
 int drawable tooltip_frame_dark 0x7f0700e6
 int drawable tooltip_frame_light 0x7f0700e7
 int id ALT 0x7f080000
@@ -3146,6 +3147,7 @@ int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
+int id Titulo_Poketest 0x7f080230
 int id above 0x7f08000e
 int id accelerate 0x7f08000f
 int id accessibility_action_clickable_span 0x7f080010
