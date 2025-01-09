@@ -23,6 +23,8 @@ color test
 color water
 color white
 drawable baseline_catching_pokemon_24
+drawable fondo
+drawable fondo_inicio
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable pok__ball

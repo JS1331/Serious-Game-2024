@@ -4,12 +4,16 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/drawable_pokeball_pattern.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/drawable/pokeball_pattern.webp"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_stats.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\stats.xml"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo.png.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo.png"
+    },
+    {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_select.xml.flat",
@@ -24,12 +28,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -40,16 +44,20 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_pokeball_pattern.webp.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\pokeball_pattern.webp"
+    },
+    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -60,12 +68,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_pokedex.xml.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex.xml"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo_inicio.jpg.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo_inicio.jpg"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_stats.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/layout/stats.xml"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_pokedex.xml.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\xml_backup_rules.xml.flat",
