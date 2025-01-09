@@ -25,6 +25,8 @@ color white
 drawable baseline_catching_pokemon_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable pok__ball
+drawable pokeball_pattern
 id btnBack
 id btnJugar
 id btnPokedex
