@@ -1,8 +1,10 @@
 package com.example.seriousgame2024
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
+import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -37,9 +39,18 @@ class PokedexActivity : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu, menu)
+
+        // Configurar acción al hacer clic en el ícono
         val menuItem = menu?.findItem(R.id.icnLogo)
         menuItem?.icon?.setBounds(0, 0, 96, 96) // Establece el tamaño del ícono en píxeles
-        menuItem?.icon = menuItem?.icon
+        menuItem?.setOnMenuItemClickListener {
+            // Volver a MainActivity
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
+            finish() // Finaliza la actividad actual para evitar volver atrás
+            true
+        }
+
         return true
     }
 
