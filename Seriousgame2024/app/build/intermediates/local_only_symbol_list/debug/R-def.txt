@@ -27,6 +27,7 @@ drawable fondo
 drawable fondo_inicio
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_logo_layer
 drawable pok__ball
 drawable pokeball_pattern
 drawable titulo
@@ -46,6 +47,7 @@ id guideline15
 id guideline16
 id guideline17
 id guideline18
+id guideline19
 id guideline2
 id guideline3
 id guideline4
@@ -55,6 +57,7 @@ id guideline7
 id guideline8
 id guideline9
 id icnLogo
+id imageView
 id menu
 id rvPokedex
 id textView

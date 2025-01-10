@@ -3047,6 +3047,7 @@ drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_logo_layer
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -3361,6 +3362,7 @@ id guideline15
 id guideline16
 id guideline17
 id guideline18
+id guideline19
 id guideline2
 id guideline3
 id guideline4
@@ -3384,6 +3386,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id indeterminate

@@ -12,6 +12,10 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\stats.xml"
     },
     {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_pokedex.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/pokedex.xml"
+    },
+    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_select.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_select.xml"
     },
@@ -48,6 +52,10 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/menu_menu.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/menu/menu.xml"
+    },
+    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
@@ -72,12 +80,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_stats.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/layout/stats.xml"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\xml_backup_rules.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ic_logo_layer.xml.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ic_logo_layer.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_baseline_catching_pokemon_24.xml.flat",

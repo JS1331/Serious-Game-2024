@@ -37,6 +37,9 @@ class PokedexActivity : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu, menu)
+        val menuItem = menu?.findItem(R.id.icnLogo)
+        menuItem?.icon?.setBounds(0, 0, 96, 96) // Establece el tamaño del ícono en píxeles
+        menuItem?.icon = menuItem?.icon
         return true
     }
 
