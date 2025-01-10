@@ -1,6 +1,7 @@
 package com.example.seriousgame2024
 
 import android.graphics.Color
+import android.graphics.drawable.GradientDrawable
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
@@ -29,18 +30,29 @@ class Stats : AppCompatActivity() {
         findViewById<TextView>(R.id.tvSpD).text = pokemon.base.SpDefense.toString()
         findViewById<TextView>(R.id.tvSpe).text = pokemon.base.Speed.toString()
 
-        // Cambiar colores del botón
         val btn = findViewById<Button>(R.id.btnBack)
+
+// Obtener los tipos de Pokémon
         val type1 = pokemon.type.getOrNull(0) ?: "normal"
         val type2 = pokemon.type.getOrNull(1)
 
-        btn.setBackgroundColor(getTypeColor(type1)) // Color de fondo basado en type1
-        btn.setTextColor(type2?.let { getTypeColor(it) } ?: Color.BLACK) // Color de texto basado en type2 o negro por defecto
+// Crear un GradientDrawable para personalizar el fondo y los bordes
+        val drawable = GradientDrawable()
 
-        // Configurar botón para regresar a PokedexActivity
+// Establecer el color de fondo basado en type1
+        drawable.setColor(getTypeColor(type1))
+
+// Hacer el borde más grande (por ejemplo, 10 píxeles)
+        drawable.setStroke(25, type2?.let { getTypeColor(it) } ?: Color.TRANSPARENT)
+
+// Asignar el drawable como fondo del botón
+        btn.background = drawable
+
+// Configurar botón para regresar a PokedexActivity
         btn.setOnClickListener {
             finish() // Cierra la actividad actual y regresa a la anterior
         }
+
     }
 
     private fun getTypeColor(type: String): Int {

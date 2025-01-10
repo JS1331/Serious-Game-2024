@@ -4,16 +4,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_stats.xml.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\stats.xml"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo.png.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_activity_main.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/layout/activity_main.xml"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_stats.xml.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\stats.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_select.xml.flat",
@@ -28,12 +24,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -50,10 +46,6 @@
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/drawable_titulo.png.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/drawable/titulo.png"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -78,6 +70,10 @@
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_pokedex.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex.xml"
+    },
+    {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_stats.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/stats.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\xml_backup_rules.xml.flat",
@@ -106,6 +102,10 @@
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_titulo.png.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\titulo.png"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",

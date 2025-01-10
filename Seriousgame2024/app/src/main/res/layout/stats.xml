@@ -255,6 +255,7 @@
         android:layout_width="90dp"
         android:layout_height="60dp"
         android:lineSpacingExtra="2dp"
+        android:outlineProvider="none"
         android:text="Back"
         android:textSize="16dp"
         android:textStyle="bold"
