@@ -27,6 +27,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.SeriousGame2024" >
+
+        <!-- Registro de actividades -->
+        <activity
+            android:name="com.example.seriousgame2024.Stats"
+            android:exported="false" />
         <activity
             android:name="com.example.seriousgame2024.SelectActivity"
             android:exported="false" />

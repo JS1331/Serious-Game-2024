@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/fondo_inicio"
+
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.Guideline
@@ -11,27 +13,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.15" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="278dp"
-        android:layout_height="78dp"
-        android:autoSizeTextType="uniform"
-        android:gravity="center"
-        android:text="PokeTest"
-        android:textColor="@color/black"
-        app:layout_constraintBottom_toTopOf="@+id/guideline"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintGuide_percent="0.45" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.8" />
+        app:layout_constraintGuide_percent="0.83" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnPokedex"
@@ -41,6 +30,7 @@
         android:layout_marginRight="10dp"
         android:layout_marginBottom="10dp"
         android:autoSizeTextType="uniform"
+        android:backgroundTint="#FFFFFF"
         android:text="Pokedex"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.6" />
+        app:layout_constraintGuide_percent="0.65" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnJugar"
@@ -62,9 +52,20 @@
         android:layout_marginRight="10dp"
         android:layout_marginBottom="10dp"
         android:autoSizeTextType="uniform"
+        android:backgroundTint="#FFFFFF"
         android:text="Jugar"
         app:layout_constraintBottom_toTopOf="@+id/guideline2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline3" />
+
+    <ImageView
+        android:id="@+id/Titulo_Poketest"
+        android:layout_width="362dp"
+        android:layout_height="109dp"
+        app:layout_constraintBottom_toTopOf="@+id/guideline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/titulo" />
 </androidx.constraintlayout.widget.ConstraintLayout>
