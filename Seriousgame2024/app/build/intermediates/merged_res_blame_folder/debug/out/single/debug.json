@@ -4,20 +4,16 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo.png.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo.png"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_button_rounded.xml.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\button_rounded.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_stats.xml.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\stats.xml"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_button_rounded.xml.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\button_rounded.xml"
-    },
-    {
-        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_pokedex_row.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-6:/layout/pokedex_row.xml"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo.png.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo.png"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_select.xml.flat",
