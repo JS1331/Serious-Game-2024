@@ -1,86 +1,178 @@
 [
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_rounded_background_blue.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\rounded_background_blue.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_rounded_background_red.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\rounded_background_red.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/drawable_ultraball.png.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/drawable/ultraball.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/drawable_baseline_catching_pokemon_24.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/drawable/baseline_catching_pokemon_24.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_select.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_select.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/xml_backup_rules.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/layout_pokedex.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/layout/pokedex.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_master_ball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\master_ball.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/menu_menu.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/menu/menu.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_rounded_background_green.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\rounded_background_green.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_safari_ball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\safari_ball.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/layout_activity_select.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/layout/activity_select.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_wordle_game.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_wordle_game.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_stat_battle_game.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_stat_battle_game.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_logopokemon.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\logopokemon.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_pokedex.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex.xml"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_comodin_wiki.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\comodin_wiki.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ultra_ball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ultra_ball.png"
     },
     {
-        "merged": "com.example.seriousgame2024.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.seriousgame2024.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/drawable_masterball.png.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/drawable/masterball.png"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_guess_stats.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_guess_stats.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_superball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\superball.png"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_poke_ball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\poke_ball.png"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_pokedex_row.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\pokedex_row.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\menu_menu.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\menu\\menu.xml"
+    },
+    {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_activity_select.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/activity_select.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_super_ball.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\super_ball.png"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_baseline_catching_pokemon_24.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\baseline_catching_pokemon_24.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_rounded_background_yellow.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\rounded_background_yellow.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_true_false_game_activtiy.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_true_false_game_activtiy.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_comodin_pista.png.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\comodin_pista.png"
+    },
+    {
+        "merged": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\layout_activity_trivia_game.xml.flat",
+        "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\layout\\activity_trivia_game.xml"
+    },
+    {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_activity_trivia_game.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/activity_trivia_game.xml"
     }
 ]

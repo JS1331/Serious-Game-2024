@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.seriousgame2024"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.seriousgame2024"

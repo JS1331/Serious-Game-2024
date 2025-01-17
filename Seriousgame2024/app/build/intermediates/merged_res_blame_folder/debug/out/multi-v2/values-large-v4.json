@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.seriousgame2024.app-mergeDebugResources-29:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.example.seriousgame2024.app-mergeDebugResources-2:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jan_s\\.gradle\\caches\\transforms-3\\f8fced7e33e8063786db0e37554c671f\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\caches\\transforms-3\\f8fced7e33e8063786db0e37554c671f\\transformed\\appcompat-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jan_s\\.gradle\\caches\\transforms-3\\51feb98c4e418394be4a9f7b65440d51\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\kotlin projectes\\01 Ejemplo basico\\01 Ejemplo basico\\.gradle\\caches\\transforms-3\\51feb98c4e418394be4a9f7b65440d51\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

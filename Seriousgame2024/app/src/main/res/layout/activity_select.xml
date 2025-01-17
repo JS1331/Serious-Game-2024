@@ -40,7 +40,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnSafariBall"
-        app:srcCompat="@drawable/Poké_Ball" />
+        app:srcCompat="@drawable/poke_ball" />
 
     <ImageButton
         android:id="@+id/btnSuperBall"
@@ -49,7 +49,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnPokeBall"
-        app:srcCompat="@drawable/Super_Ball" />
+        app:srcCompat="@drawable/superball" />
 
     <ImageButton
         android:id="@+id/btnUltraBall"
@@ -58,7 +58,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnSuperBall"
-        app:srcCompat="@drawable/Ultra_Ball" />
+        app:srcCompat="@drawable/ultraball" />
 
     <ImageButton
         android:id="@+id/btnMasterBall"
@@ -68,7 +68,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnUltraBall"
-        app:srcCompat="@drawable/Master_Ball" />
+        app:srcCompat="@drawable/masterball" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -81,7 +81,7 @@
         app:layout_constraintStart_toEndOf="@+id/btnMasterBall"
         app:layout_constraintTop_toBottomOf="@+id/imageButton3"
         app:layout_constraintVertical_bias="0.954"
-        app:srcCompat="@drawable/comodinPista" />
+        app:srcCompat="@drawable/comodin_pista" />
 
     <ImageButton
         android:id="@+id/imageButton3"
@@ -92,7 +92,7 @@
         app:layout_constraintHorizontal_bias="0.636"
         app:layout_constraintStart_toEndOf="@+id/btnUltraBall"
         app:layout_constraintTop_toTopOf="@+id/guideline6"
-        app:srcCompat="@drawable/comodinWiki" />
+        app:srcCompat="@drawable/comodin_wiki" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

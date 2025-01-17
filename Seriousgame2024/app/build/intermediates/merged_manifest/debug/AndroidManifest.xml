@@ -28,11 +28,30 @@
         android:testOnly="true"
         android:theme="@style/Theme.SeriousGame2024" >
         <activity
-            android:name="com.example.seriousgame2024.SelectActivity"
+            android:name="com.example.seriousgame2024.GuessStatsActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.seriousgame2024.PokedexActivity"
+            android:name="com.example.seriousgame2024.StatBattleGameActivity"
             android:exported="false" />
+        <activity
+            android:name="com.example.seriousgame2024.WordleGameActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.seriousgame2024.TriviaGameActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.seriousgame2024.TrueFalseGameActivtiy"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.seriousgame2024.SelectActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.seriousgame2024.PokedexActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.example.seriousgame2024.MainActivity"
             android:exported="true" >
