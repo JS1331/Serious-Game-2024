@@ -13,6 +13,10 @@
     <color name="grass">#63BB5C</color>
     <color name="ground">#D77945</color>
     <color name="ice">#74CFC0</color>
+    <color name="kahootBlue">#1369CC</color>
+    <color name="kahootGreen">#26890A</color>
+    <color name="kahootRed">#F0070B</color>
+    <color name="kahootYellow">#D89B02</color>
     <color name="normal">#8F9A9F</color>
     <color name="poison">#AB69CC</color>
     <color name="psychic">#F87075</color>

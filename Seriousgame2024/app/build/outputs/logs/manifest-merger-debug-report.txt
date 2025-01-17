@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [com.google.android.material:material:1.12.0] C:\DAMANDROID\caches\transforms-3\51feb98c4e418394be4a9f7b65440d51\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\DAMANDROID\caches\transforms-3\6afcebf82c4fef1f50dd8c778cac1f98\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\DAMANDROID\caches\transforms-3\ce8f28ec9b27f02149ccbe1534ca6ada\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] C:\DAMANDROID\caches\transforms-3\52ca5
 	xmlns:android
 		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-34:19
-INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-34:19
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-50:19
+INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-50:19
 MERGED from [com.google.android.material:material:1.12.0] C:\DAMANDROID\caches\transforms-3\51feb98c4e418394be4a9f7b65440d51\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\DAMANDROID\caches\transforms-3\51feb98c4e418394be4a9f7b65440d51\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\DAMANDROID\caches\transforms-3\6afcebf82c4fef1f50dd8c778cac1f98\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
@@ -96,40 +96,72 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\DAMANDROID\caches\transf
 		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:13:9-53
 	android:dataExtractionRules
 		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.seriousgame2024.Stats
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:17:9-19:40
+activity#com.example.seriousgame2024.GuessStatsActivity
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:19:13-37
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:18:13-34
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:16:13-47
+activity#com.example.seriousgame2024.StatBattleGameActivity
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:19:13-51
+activity#com.example.seriousgame2024.WordleGameActivity
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:22:13-47
+activity#com.example.seriousgame2024.TriviaGameActivity
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:24:9-27:51
+	android:screenOrientation
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:27:13-49
+	android:exported
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:25:13-47
+activity#com.example.seriousgame2024.TrueFalseGameActivtiy
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:28:9-31:51
+	android:screenOrientation
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:13-49
+	android:exported
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:29:13-50
 activity#com.example.seriousgame2024.SelectActivity
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:20:9-22:40
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:32:9-35:51
+	android:screenOrientation
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:35:13-49
 	android:exported
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:33:13-43
 activity#com.example.seriousgame2024.PokedexActivity
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:23:9-25:40
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:36:9-39:51
+	android:screenOrientation
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:39:13-49
 	android:exported
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:25:13-37
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:24:13-44
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:37:13-44
 activity#com.example.seriousgame2024.MainActivity
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:40:9-49:20
 	android:exported
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:42:13-36
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:27:13-41
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:41:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:29:13-32:29
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:47:27-74
 uses-sdk
 INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml

@@ -20,7 +20,7 @@
 15-->[androidx.core:core:1.13.0] C:\DAMANDROID\caches\transforms-3\2ff148e84480a3aaadf1757fbce4b80d\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-34:19
+17-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:5:5-50:19
 18        android:allowBackup="true"
 18-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -42,109 +42,139 @@
 28        android:testOnly="true"
 29        android:theme="@style/Theme.SeriousGame2024" >
 29-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:13:9-53
-30
-31        <!-- Registro de actividades -->
-32        <activity
-32-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:17:9-19:40
-33            android:name="com.example.seriousgame2024.Stats"
-33-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:18:13-34
-34            android:exported="false" />
-34-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:19:13-37
-35        <activity
-35-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:20:9-22:40
-36            android:name="com.example.seriousgame2024.SelectActivity"
-36-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:21:13-43
-37            android:exported="false" />
-37-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:22:13-37
-38        <activity
-38-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:23:9-25:40
-39            android:name="com.example.seriousgame2024.PokedexActivity"
-39-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:24:13-44
-40            android:exported="false" />
-40-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:25:13-37
-41        <activity
-41-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:26:9-33:20
-42            android:name="com.example.seriousgame2024.MainActivity"
-42-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:27:13-41
-43            android:exported="true" >
-43-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:28:13-36
-44            <intent-filter>
-44-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:29:13-32:29
-45                <action android:name="android.intent.action.MAIN" />
-45-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:17-69
-45-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:25-66
-46
-47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:17-77
-47-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:27-74
-48            </intent-filter>
-49        </activity>
-50
-51        <provider
-51-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-52            android:name="androidx.startup.InitializationProvider"
-52-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
-53            android:authorities="com.example.seriousgame2024.androidx-startup"
-53-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
-54            android:exported="false" >
-54-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
-55            <meta-data
-55-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
-56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-56-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
-57                android:value="androidx.startup" />
-57-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
-58            <meta-data
-58-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-59-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-60                android:value="androidx.startup" />
-60-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-61            <meta-data
-61-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
-62                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-62-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
-63                android:value="androidx.startup" />
-63-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
-64        </provider>
-65
-66        <receiver
-66-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
-67            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-67-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
-68            android:directBootAware="false"
-68-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
-69            android:enabled="true"
-69-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
-70            android:exported="true"
-70-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
-71            android:permission="android.permission.DUMP" >
-71-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
-72            <intent-filter>
-72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
-73                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-73-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
-73-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
-74            </intent-filter>
-75            <intent-filter>
-75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
-76                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
-76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
-77            </intent-filter>
-78            <intent-filter>
-78-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
-79                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-79-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
-79-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
-80            </intent-filter>
-81            <intent-filter>
-81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
-82                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
-82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
-83            </intent-filter>
-84        </receiver>
-85    </application>
-86
-87</manifest>
+30        <activity
+30-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:15:9-17:40
+31            android:name="com.example.seriousgame2024.GuessStatsActivity"
+31-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:16:13-47
+32            android:exported="false" />
+32-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:17:13-37
+33        <activity
+33-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.seriousgame2024.StatBattleGameActivity"
+34-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:19:13-51
+35            android:exported="false" />
+35-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:20:13-37
+36        <activity
+36-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.seriousgame2024.WordleGameActivity"
+37-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:22:13-47
+38            android:exported="false" />
+38-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:23:13-37
+39        <activity
+39-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:24:9-27:51
+40            android:name="com.example.seriousgame2024.TriviaGameActivity"
+40-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:25:13-47
+41            android:exported="false"
+41-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:26:13-37
+42            android:screenOrientation="portrait" />
+42-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:27:13-49
+43        <activity
+43-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:28:9-31:51
+44            android:name="com.example.seriousgame2024.TrueFalseGameActivtiy"
+44-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:29:13-50
+45            android:exported="false"
+45-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:30:13-37
+46            android:screenOrientation="portrait" />
+46-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:31:13-49
+47        <activity
+47-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:32:9-35:51
+48            android:name="com.example.seriousgame2024.SelectActivity"
+48-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:33:13-43
+49            android:exported="false"
+49-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:34:13-37
+50            android:screenOrientation="portrait" />
+50-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:35:13-49
+51        <activity
+51-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:36:9-39:51
+52            android:name="com.example.seriousgame2024.PokedexActivity"
+52-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:37:13-44
+53            android:exported="false"
+53-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:38:13-37
+54            android:screenOrientation="portrait" />
+54-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:39:13-49
+55        <activity
+55-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:40:9-49:20
+56            android:name="com.example.seriousgame2024.MainActivity"
+56-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:41:13-41
+57            android:exported="true" >
+57-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:42:13-36
+58            <intent-filter>
+58-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:44:13-48:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:45:17-69
+59-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:45:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:47:17-77
+61-->C:\DAMANDROID\Serious-Game-2024\Seriousgame2024\app\src\main\AndroidManifest.xml:47:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <provider
+65-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+66            android:name="androidx.startup.InitializationProvider"
+66-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+67            android:authorities="com.example.seriousgame2024.androidx-startup"
+67-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+68            android:exported="false" >
+68-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+69            <meta-data
+69-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+70-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+71                android:value="androidx.startup" />
+71-->[androidx.emoji2:emoji2:1.3.0] C:\DAMANDROID\caches\transforms-3\2e19ce29c64348930e70d28d82405c04\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+72            <meta-data
+72-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+73-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+74                android:value="androidx.startup" />
+74-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\DAMANDROID\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+75            <meta-data
+75-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+77                android:value="androidx.startup" />
+77-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+78        </provider>
+79
+80        <receiver
+80-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+81-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+82            android:directBootAware="false"
+82-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+83            android:enabled="true"
+83-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+84            android:exported="true"
+84-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+85            android:permission="android.permission.DUMP" >
+85-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+87-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\DAMANDROID\caches\transforms-3\ce77dd12debc64e102184f68f9765a47\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>
