@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bd2e731-032c-4b84-b7ee-d37a7e7227b3" name="Changes" comment="PERFECT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seriousgame2024/app/src/main/java/com/example/seriousgame2024/TriviaGameActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Seriousgame2024/app/src/main/java/com/example/seriousgame2024/TriviaGameActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seriousgame2024/app/src/main/res/layout/activity_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Seriousgame2024/app/src/main/res/layout/activity_select.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2q2VeCcdmZMMLtn18DnfMMmPAPy" />
   <component name="ProjectViewState">
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737486917288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PERFECT">
+      <created>1737487697471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737487697471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
