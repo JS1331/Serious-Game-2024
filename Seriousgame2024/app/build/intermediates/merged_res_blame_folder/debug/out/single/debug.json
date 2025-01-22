@@ -4,16 +4,16 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_comodin_pista.png.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\comodin_pista.png"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_button_rounded.xml.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\button_rounded.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_fondo.png.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\fondo.png"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_button_rounded.xml.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\button_rounded.xml"
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_comodin_pista.png.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\comodin_pista.png"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_rounded_background_red.xml.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\rounded_background_blue.xml"
     },
     {
-        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ultraball.png.flat",
-        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ultraball.png"
-    },
-    {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_ultraball.png.flat",
+        "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\ultraball.png"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
@@ -78,6 +78,10 @@
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_masterball.png.flat",
         "source": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-main-6:\\drawable\\masterball.png"
+    },
+    {
+        "merged": "com.example.seriousgame2024.app-merged_res-4:/layout_activity_true_false_game_activtiy.xml.flat",
+        "source": "com.example.seriousgame2024.app-main-6:/layout/activity_true_false_game_activtiy.xml"
     },
     {
         "merged": "C:\\DAMANDROID\\daemon\\8.0\\com.example.seriousgame2024.app-merged_res-4:\\drawable_safari_ball.png.flat",

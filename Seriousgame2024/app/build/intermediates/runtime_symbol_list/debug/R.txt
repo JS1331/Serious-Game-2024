@@ -3165,6 +3165,7 @@ int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
+int id TextView1 0x7f080241
 int id Titulo_Poketest 0x7f08000e
 int id above 0x7f08000f
 int id accelerate 0x7f080010
@@ -3255,6 +3256,7 @@ int id bounceEnd 0x7f080064
 int id bounceStart 0x7f080065
 int id btnBack 0x7f080066
 int id btnBlue 0x7f080067
+int id btnFalse 0x7f080242
 int id btnGreen 0x7f080068
 int id btnJugar 0x7f080069
 int id btnMasterBall 0x7f08006a
@@ -3264,6 +3266,7 @@ int id btnRed 0x7f08006d
 int id btnSafariBall 0x7f08006e
 int id btnStats 0x7f08006f
 int id btnSuperBall 0x7f080070
+int id btnTrue 0x7f080243
 int id btnUltraBall 0x7f080071
 int id btnYellow 0x7f080072
 int id buttonPanel 0x7f080073
@@ -3389,6 +3392,12 @@ int id guideline17 0x7f0800ea
 int id guideline18 0x7f0800eb
 int id guideline19 0x7f0800ec
 int id guideline2 0x7f0800ed
+int id guideline20 0x7f080244
+int id guideline21 0x7f080245
+int id guideline22 0x7f080246
+int id guideline23 0x7f080247
+int id guideline24 0x7f080248
+int id guideline25 0x7f080249
 int id guideline3 0x7f0800ee
 int id guideline4 0x7f0800ef
 int id guideline5 0x7f0800f0
@@ -3649,8 +3658,11 @@ int id textView 0x7f0801ed
 int id textView10 0x7f0801ee
 int id textView11 0x7f0801ef
 int id textView12 0x7f0801f0
+int id textView15 0x7f08024a
+int id textView17 0x7f08024b
 int id textView19 0x7f0801f1
 int id textView2 0x7f0801f2
+int id textView20 0x7f08024c
 int id textView3 0x7f0801f3
 int id textView4 0x7f0801f4
 int id textView5 0x7f0801f5
@@ -3692,10 +3704,14 @@ int id tvHp 0x7f080218
 int id tvID 0x7f080219
 int id tvID2 0x7f08021a
 int id tvMaxScore 0x7f08021b
+int id tvMaxScoreTF 0x7f08024d
 int id tvName 0x7f08021c
 int id tvNombre 0x7f08021d
+int id tvPokedexNumTF 0x7f08024e
 int id tvPokemon 0x7f08021e
+int id tvPokemonTF 0x7f08024f
 int id tvScore 0x7f08021f
+int id tvScoreTF 0x7f080250
 int id tvSpA 0x7f080220
 int id tvSpD 0x7f080221
 int id tvSpe 0x7f080222

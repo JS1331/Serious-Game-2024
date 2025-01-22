@@ -3166,6 +3166,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id TextView1
 id Titulo_Poketest
 id above
 id accelerate
@@ -3256,6 +3257,7 @@ id bounceEnd
 id bounceStart
 id btnBack
 id btnBlue
+id btnFalse
 id btnGreen
 id btnJugar
 id btnMasterBall
@@ -3265,6 +3267,7 @@ id btnRed
 id btnSafariBall
 id btnStats
 id btnSuperBall
+id btnTrue
 id btnUltraBall
 id btnYellow
 id buttonPanel
@@ -3390,6 +3393,12 @@ id guideline17
 id guideline18
 id guideline19
 id guideline2
+id guideline20
+id guideline21
+id guideline22
+id guideline23
+id guideline24
+id guideline25
 id guideline3
 id guideline4
 id guideline5
@@ -3650,8 +3659,11 @@ id textView
 id textView10
 id textView11
 id textView12
+id textView15
+id textView17
 id textView19
 id textView2
+id textView20
 id textView3
 id textView4
 id textView5
@@ -3693,10 +3705,14 @@ id tvHp
 id tvID
 id tvID2
 id tvMaxScore
+id tvMaxScoreTF
 id tvName
 id tvNombre
+id tvPokedexNumTF
 id tvPokemon
+id tvPokemonTF
 id tvScore
+id tvScoreTF
 id tvSpA
 id tvSpD
 id tvSpe
