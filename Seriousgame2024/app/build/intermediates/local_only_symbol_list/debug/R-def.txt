@@ -135,6 +135,7 @@ id tvTipo1
 id tvTipo2
 id tvType1
 id tvType2
+id tvcontador
 layout activity_guess_stats
 layout activity_main
 layout activity_select

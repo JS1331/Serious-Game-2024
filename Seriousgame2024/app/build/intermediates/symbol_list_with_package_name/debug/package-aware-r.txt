@@ -3720,6 +3720,7 @@ id tvTipo1
 id tvTipo2
 id tvType1
 id tvType2
+id tvcontador
 id unchecked
 id uniform
 id unlabeled

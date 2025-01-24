@@ -1,6 +1,8 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("kotlin-kapt") // Movido al mismo bloque de plugins
+    id ("kotlin-parcelize") // Añade esta línea
 }
 
 android {
@@ -36,6 +38,11 @@ android {
 }
 
 dependencies {
+
+    // Room dependencies
+    implementation("androidx.room:room-runtime:2.5.1")
+    kapt("androidx.room:room-compiler:2.5.1")
+    implementation("androidx.room:room-ktx:2.5.1")
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.7.0")
